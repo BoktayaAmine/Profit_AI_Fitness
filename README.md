@@ -1,31 +1,32 @@
-# Profit: Your Fitness AI Assistant
+# 💪 Profit: Your Fitness AI Assistant 🏋‍♂
 
 ![Profit App Banner](https://example.com/profit_banner.jpg)
 
 Profit is a comprehensive fitness android application designed to help users achieve their fitness goals through personalized AI-driven recommendations. The app combines modern technologies to provide a seamless experience for tracking progress, planning workouts, and staying motivated.
 
-## Table of Contents
+---
+## 📑 Table of Contents
+- [🛠 Software Architecture](#software-architecture)
+- [🐳 Docker Image](#-docker-image)
+- [📱 Frontend](#-frontend)
+- [⚙ Backend](#-backend)
+- [🤖 AI Service](#-ai-service)
+- [🚀 Getting Started](#-getting-started)
+- [🎥 Video Demonstration](#-video-demonstration)
+- [🤝 Contributing](#-contributing)
 
-- [Software Architecture](#software-architecture)
-- [Docker Image](#docker-image)
-- [Frontend](#frontend)
-- [Backend](#backend)
-- [AI Service](#ai-service)
-- [Getting Started](#getting-started)
-- [Video Demonstration](#video-demonstration)
-- [Contributing](#contributing)
+---
+##  🛠 Software Architecture
 
-## Software Architecture
-
-![Architecture](https://github.com/user-attachments/assets/ea9ff612-d759-40b8-8cc6-659e3ea35ac3)
+![Architecture](https://github.com/user-attachments/assets/6d4ffb2e-146b-47a1-ac83-2f29b89e1bf3)
 
 The architecture includes:
-- **Front Mobile:** Built with Java/Kotlin for Android devices.
-- **Front Admin:** Developed with modern web technologies for managing user data.
-- **Back End:** Powered by Spring Boot for core business logic.
-- **AI Service:** Used for generating personalized fitness recommendations, selecting suitable exercises based on user data, and providing textual advice based on fitness progress and goals.
-
-## Docker Image
+- *Front Mobile:* Built with Java/Kotlin for Android devices.
+- *Front Admin:* Developed with modern web technologies for managing user data.
+- *Back End:* Powered by Spring Boot for core business logic.
+- *AI Service:* Used for generating personalized fitness recommendations, selecting suitable exercises based on user data, and providing textual advice based on fitness progress and goals.
+---
+## 🐳 Docker Image
 
 ```yaml
 version: '3'
@@ -82,27 +83,28 @@ networks:
     driver: bridge
 
 ```
+---
+## 📱 Frontend
 
-## Frontend
+### 📲 Mobile Frontend
 
-### Mobile Frontend
-
-- Built with **Java/Kotlin** for native Android functionality.
+- Built with *Java/Kotlin* for native Android functionality.
 - Includes features such as:
   - Workout tracking
   - Daily calorie logging
   - Interactive charts and graphs
 
-### Admin Frontend
+### 💻 Admin Frontend
 
 - Web-based admin panel for managing user accounts and reviewing data.
 
-## Backend
+---
+## ⚙ Backend
 
 ### Technologies Used
 
-- **Spring Boot** for robust backend operations.
-- **MySQL** for database management.
+- *Spring Boot* for robust backend operations.
+- *MySQL* for database management.
 
 ### Features
 
@@ -110,7 +112,8 @@ networks:
 - Workout and calorie tracking
 - Integration with the AI service for AI-based recommendations
 
-## AI Service
+---
+## 🤖 AI Service
 The AI microservice in our Flask application is responsible for:
 
 - Handling personalized fitness recommendations: Generates tailored textual advice and exercise suggestions based on user data (e.g., fitness level, health conditions, objectives).
@@ -121,7 +124,8 @@ The AI microservice in our Flask application is responsible for:
 - Google Generative AI: Powers content generation for personalized recommendations.
 - dotenv: Manages API keys and environment variables.
 
-## Getting Started
+---
+## 🚀 Getting Started
 
 ### Prerequisites
 
@@ -133,29 +137,30 @@ The AI microservice in our Flask application is responsible for:
 ### Setup Steps
 
 1. Clone the repository:
-   ```bash
+   bash
    git clone <repository_url>
    cd <project_folder>
-   ```
+   
 
 2. Start the application:
-   ```bash
+   bash
    docker-compose up --build
-   ```
+   
 
 3. Run the mobile app in Android Studio or install the APK on your device and link it with your PC.
 
-4. Access the admin frontend at `http://localhost:3000`.
+4. Access the admin frontend at http://localhost:3000.
 
-5. The AI service runs on `http://localhost:5000`.
+5. The AI service runs on http://localhost:5000.
 
-## Video Demonstration
+## 🎥 Video Demonstration
 
-Watch a detailed demonstration of Profit in action:
+🎬Watch a detailed demonstration of Profit in action:
 
 [![Watch Video](https://example.com/video_thumbnail.jpg)](https://example.com/demo_video)
 
-## Contributing
+---
+## 🤝Contributing
 
 We welcome contributions to improve Profit. To contribute:
 
@@ -163,7 +168,8 @@ We welcome contributions to improve Profit. To contribute:
 2. Create a new branch for your feature.
 3. Submit a pull request.
 
-## Contributors
+---
+## 🙌Contributors
 
 - Amine Boktaya ([GitHub Profile](https://github.com/BoktayaAmine))
 - Meryem Boukhrais ([GitHub Profile](https://github.com/Bou-Mery))
