@@ -17,7 +17,7 @@ Profit is a comprehensive fitness android application designed to help users ach
 
 ## Software Architecture
 
-![Architecture](https://github.com/user-attachments/assets/6d4ffb2e-146b-47a1-ac83-2f29b89e1bf3)
+![Architecture](https://github.com/user-attachments/assets/ea9ff612-d759-40b8-8cc6-659e3ea35ac3)
 
 The architecture includes:
 - **Front Mobile:** Built with Java/Kotlin for Android devices.
