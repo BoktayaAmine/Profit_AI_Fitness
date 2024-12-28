@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Profit</string>
+
+    <string name="recommended_exercises">Recommended Exercises</string>
+    <string name="exercise_image">Exercise Image</string>
+    <string name="no_exercise_recommendations">No recommended exercises available</string>
+
+    <string name="recommendations_title">Recommendations</string>
+    <string name="personalized_advice">Personalized Advice</string>
+    <string name="loading_recommendations">Loading recommendations...</string>
+    <string name="user_id_not_found">User  ID not found</string>
+    <string name="error_fetching_recommendations">Error loading recommendations</string>
+
+    <string name="get_personalized_recommendations">Get personalized recommendations based on your goals</string>
+    <string name="view_now">View Now</string>
+    <string name="error_user_not_found">User  ID not found</string>
+    <string name="error_fetch_objectifs">Unable to fetch objectives</string>
+
+    <!-- Workout strings  -->
+    <string name="quote1">The only person you are destined to become is the person you decide to be.</string>
+    <string name="quote2">Once you learn to quit, it becomes a habit.</string>
+    <string name="quote3">A year from now you may wish you had started today.</string>
+    <string name="quote4">Look in the mirror. That’s your competition.</string>
+    <string name="quote5">A feeble body weakens the mind.</string>
+    <string name="quote6">Put all excuses aside and remember this: You are capable.</string>
+    <string name="quote7">Reading is to the mind what exercise is to the body.</string>
+    <string name="quote8">Success is what comes after your stop making excuses.</string>
+    <string name="quote9">The pain you feel today will be the strength you feel tomorrow.</string>
+    <string name="quote10">A champion is someone who gets up when they can’t.</string>
+    <string name="quote11">Get comfortable with being uncomfortable!</string>
+    <string name="quote12">No pain, no gain.</string>
+    <string name="pushup">Pushups are a simple and effective bodyweight movement that can help increase strength in your upper body and core.</string>
+    <string name="pullup">The pull-up is a closed-chain movement where the body is suspended by the hands and pulls up</string>
+    <string name="squats">Strength exercise in which the trainee lowers their hips from a standing position and then stands back up</string>
+    <string name="tplank">Inner core exercise which helps reduce body fat and increase core strength</string>
+    <string name="deadbug">The dead bug is a bodyweight exercise that targets your abdominal muscles.</string>
+    <string name="skipping">User jumps avoiding the incoming rope to increase stamina and it serves as warmup</string>
+    <string name="heavysquats">Strength exercise of lower body done but using weights to improve legs,calf,thighs</string>
+    <string name="splitjump">Split jumps are a plyometric exercise that strengthen the glutes and leg muscles</string>
+    <string name="virkshasana">Tree Pose is a balancing asana</string>
+    <string name="cobrasana">Gentle backbend practiced from a face-down position that warms and strengthens the spine while opening the chest</string>
+    <string name="pranayama">The practice of pranayama involves breathing exercises and patterns.</string>
+    <string name="yogasana">This asana is a meditation on determination and perseverance, as well as commitment.</string>
+    <string name="utkatasana1"> It is a strengthening and heat-building asana</string>
+    <string name="tvmar">Calisthenics will be added soon. Don\'t forget to drink water and stay hydrated</string>
+
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="level_array">
+        <item>beginner</item>
+        <item>intermediate</item>
+        <item>advanced</item>
+    </string-array>
+
+    <string-array name="condition_array">
+        <item>Healthy</item>
+        <item>Diabetes</item>
+        <item>Hypertension</item>
+        <item>Cardiac Issues</item>
+        <item>Asthma</item>
+    </string-array>
+
+    <string-array name="time_ranges">
+        <item>Last 7 Days</item>
+        <item>Last 30 Days</item>
+    </string-array>
+
+    <array name="com_google_android_gms_fonts_certs">
+        <item>@null</item>
+    </array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

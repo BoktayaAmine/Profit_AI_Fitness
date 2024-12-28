@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "371163663342",
+    "project_id": "profit-auth-1722f",
+    "storage_bucket": "profit-auth-1722f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371163663342:android:c1a791529006212d10dcff",
+        "android_client_info": {
+          "package_name": "ma.ensa.mobile.profit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGDllS8YEahasfcQw1R7Q23zTILYfGb5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
