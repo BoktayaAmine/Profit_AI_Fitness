@@ -54,6 +54,19 @@ services:
     networks:
       - app-network
 
+  flask_api:
+    build:
+      context: ./Profit_flask
+    ports:
+      - "5000:5000"
+    environment:
+      - FLASK_ENV=development
+      - API_KEY=your_api_key_here
+    depends_on:
+      - db
+    networks:
+      - app-network
+
   db:
     image: mysql:8
     environment:
@@ -67,6 +80,7 @@ services:
 networks:
   app-network:
     driver: bridge
+
 ```
 
 ## Frontend
