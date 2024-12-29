@@ -158,7 +158,7 @@ The AI microservice in our Flask application is responsible for:
 
 🎬Watch a detailed demonstration of Profit in action:
 
-[![Watch Video](https://example.com/video_thumbnail.jpg)](https://example.com/demo_video)
+[![Watch Video]](https://github.com/user-attachments/assets/7abab7df-04a6-41c5-a041-5f366a4ac5b1)
 
 ---
 ## 🤝 Contributing
