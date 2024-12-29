@@ -1,12 +1,12 @@
 # 💪 Profit: Your Fitness AI Assistant 🏋‍♂
 
-![Profit App Banner](https://example.com/profit_banner.jpg)
+![Profit App Banner](https://github.com/user-attachments/assets/762b9fc0-9051-4b36-93ef-1b734848811a)
 
 Profit is a comprehensive fitness android application designed to help users achieve their fitness goals through personalized AI-driven recommendations. The app combines modern technologies to provide a seamless experience for tracking progress, planning workouts, and staying motivated.
 
 ---
 ## 📑 Table of Contents
-- [🛠 Software Architecture](#software-architecture)
+- [🛠 Software Architecture](#-software-architecture)
 - [🐳 Docker Image](#-docker-image)
 - [📱 Frontend](#-frontend)
 - [⚙ Backend](#-backend)
@@ -14,11 +14,12 @@ Profit is a comprehensive fitness android application designed to help users ach
 - [🚀 Getting Started](#-getting-started)
 - [🎥 Video Demonstration](#-video-demonstration)
 - [🤝 Contributing](#-contributing)
+- [🙌 Contributors](#-contributors)
 
 ---
 ##  🛠 Software Architecture
 
-![Architecture](https://github.com/user-attachments/assets/6d4ffb2e-146b-47a1-ac83-2f29b89e1bf3)
+![Architecture](https://github.com/user-attachments/assets/cc6c8f05-6937-48c9-bb19-539391eb1467)
 
 The architecture includes:
 - *Front Mobile:* Built with Java/Kotlin for Android devices.
@@ -160,7 +161,7 @@ The AI microservice in our Flask application is responsible for:
 [![Watch Video](https://example.com/video_thumbnail.jpg)](https://example.com/demo_video)
 
 ---
-## 🤝Contributing
+## 🤝 Contributing
 
 We welcome contributions to improve Profit. To contribute:
 
@@ -169,7 +170,7 @@ We welcome contributions to improve Profit. To contribute:
 3. Submit a pull request.
 
 ---
-## 🙌Contributors
+## 🙌 Contributors
 
 - Amine Boktaya ([GitHub Profile](https://github.com/BoktayaAmine))
 - Meryem Boukhrais ([GitHub Profile](https://github.com/Bou-Mery))
