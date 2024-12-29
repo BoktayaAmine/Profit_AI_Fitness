@@ -174,3 +174,4 @@ We welcome contributions to improve Profit. To contribute:
 
 - Amine Boktaya ([GitHub Profile](https://github.com/BoktayaAmine))
 - Meryem Boukhrais ([GitHub Profile](https://github.com/Bou-Mery))
+- Mohamed Lachgar ([Researchgate](https://www.researchgate.net/profile/Mohamed-Lachgar))
